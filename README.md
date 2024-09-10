@@ -13,17 +13,17 @@ O projeto foi desenvolvido utilizando a Godot Engine, juntamente com sua linguag
 # Imagens do jogo LINUS
 
 <div align="center">
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img1.png" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img01.png" width="400"/>
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img2.png" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img02.png" width="400"/>
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img3.png" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img03.png" width="400"/>
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img4.png" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img04.png" width="400"/>
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img5.png" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img05.png" width="400"/>
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img6.png" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img06.png" width="400"/>
 
 </div>
 
@@ -37,4 +37,4 @@ O projeto foi desenvolvido utilizando a Godot Engine, juntamente com sua linguag
 
 ---------
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20aplicativo%20LINUS/img7.png"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img07.png"/>
