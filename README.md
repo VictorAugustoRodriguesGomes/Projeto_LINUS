@@ -7,7 +7,6 @@ O objetivo deste projeto é criar um jogo interativo para aperfeiçoar o aprendi
 Nesse projeto, participei do desenvolvimeto de um jogo que funciona da seguinte forma: será sorteada aleatoriamente a configuração eletrônica de um elemento químico, e com base nisso, o jogador deverá clicar na posição da tabela periódica correspondente a esse elemento químico o mais rápido possível.
 
 O projeto foi desenvolvido utilizando a Godot Engine, juntamente com sua linguagem de programação própria, GDScript, similar ao Python.
-
 </br>
 
 # Imagens do jogo LINUS
@@ -37,4 +36,4 @@ O projeto foi desenvolvido utilizando a Godot Engine, juntamente com sua linguag
 
 ---------
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img07.png" width="100"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img07.png" width="250"/>
