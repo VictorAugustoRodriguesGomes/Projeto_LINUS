@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando a Godot Engine, juntamente com sua linguag
 
 </div>
 
-# APK 
+# Jogo LINUS 
 #### Para ter acesso ao jogo LINUS, clique em um dos links abaixo:
 1. [Baixar pela página da Play Store](https://play.google.com/store/apps/details?id=br.ufpi.ctf.peia.linus&pli=1).
 
@@ -37,4 +37,4 @@ O projeto foi desenvolvido utilizando a Godot Engine, juntamente com sua linguag
 
 ---------
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img07.png"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_LINUS/blob/main/Imagem%20do%20projeto%20LINUS/img07.png" width="100"/>
